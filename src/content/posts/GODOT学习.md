@@ -1,9 +1,9 @@
 ---
-title: GODOT学习
+title: GODOT学习之2D game
 published: 2025-09-13
 description: "Godot"
-image: "/images/Power girl.jpg" #本地图片
-#tags: 
+image: "/images/Godot2D-1.jpg" #本地图片
+tags: [Godot]
 category: "学习"
 draft: false 
 ---
@@ -26,12 +26,6 @@ draft: false
 }
 </style>
 
-# 2D GAMES
+## 1. 场景搭建
 
-`持续更新中`
-
-## DAY 1
-
-1. 场景搭建
-    
 

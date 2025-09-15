@@ -3,7 +3,7 @@ title: From Vtuber to 套皮女主播：我看虚拟主播的历程
 published: 2025-03-27
 description: "Vtuber"
 image: "https://cdn.cabbage-network.email/23e0de8419d6892a1b8e3947fd49fc69.webp"
-tags: [shikuriyav]
+tags: [虾聊]
 category: "杂谈"
 draft: false
 ---
