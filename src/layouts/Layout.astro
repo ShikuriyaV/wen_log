@@ -97,8 +97,15 @@ const bannerOffset =
 		<meta name="twitter:card" content="summary_large_image">
 		<meta property="twitter:url" content={Astro.url}>
 		<meta name="twitter:title" content={pageTitle}>
-		<meta name="twitter:description" content={description || pageTitle}>
+		<meta name="twitter:description" content={description || pageTitle}>  
 
+		<!-- 缩略图设置 -->
+		<meta property="og:image" content="/images/999.jpg" />
+		<meta property="og:image:alt" content="缩略图描述" />
+		<meta name="twitter:image" content="/images/999.jpg" />
+		<meta name="twitter:image:alt" content="缩略图描述" />
+		<!-- 缩略图设置 -->
+		 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		{favicons.map(favicon => (
